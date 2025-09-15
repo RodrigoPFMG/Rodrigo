@@ -17,10 +17,10 @@
 ## 💡 Soft Skills  
 
 - 🚀 Problem-Solving – Strong ability to learn quickly and tackle different types of problems
--🤝 Teamwork & Collaboration – Skilled at working in groups and contributing effectively
--🎯 Proactivity – Always seeking opportunities to learn and help
--🗣️ Communication – Clear and effective communication to enhance teamwork
--⭐ Leadership – Ability to take charge and guide a team
+- 🤝 Teamwork & Collaboration – Skilled at working in groups and contributing effectively
+- 🎯 Proactivity – Always seeking opportunities to learn and help
+- 🗣️ Communication – Clear and effective communication to enhance teamwork
+- ⭐ Leadership – Ability to take charge and guide a team
 
 ## 🌎 Languages  
 - 🇧🇷 **Portuguese** - Native  
