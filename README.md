@@ -1,6 +1,6 @@
 # 💻 Rodrigo Prates Ferreira e Maia Gonçalves 
 
-🎓I am a certified Electronics Technician from CEFET-MG and currently a 5th-semester Information Systems student at the Federal University of Minas Gerais (UFMG). Passionate about technology and new challenges.
+🎓I am a certified Electronics Technician from CEFET-MG and currently a 6th-semester Information Systems student at the Federal University of Minas Gerais (UFMG). Passionate about technology and new challenges.
 
 💼 R&D Researcher at LBD UFMG.
 
