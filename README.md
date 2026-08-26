@@ -2,7 +2,7 @@
 
 🎓I am a certified Electronics Technician from CEFET-MG and currently a 7th-semester Information Systems student at the Federal University of Minas Gerais (UFMG). Passionate about technology and new challenges.
 
-💼 R&D Researcher at LBD UFMG.
+💼 Technology Intern at Seedz.
 
 ## 🚀 Technologies  
 
